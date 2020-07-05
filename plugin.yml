@@ -1,0 +1,16 @@
+name: FlameRank
+main: flame\rank\Rank
+api: 
+- 3.0.0
+- 3.11.0
+- 4.0.0
+- 5.0.0
+version: 1.0.0
+author: XBadBoy,iCat21
+softdepend:
+- EconomyAPI
+- FormAPI
+
+commands:
+  rank:
+    description: "The Custom Rank for Flame"
